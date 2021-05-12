@@ -1,1 +1,7 @@
-package "main"
+package main
+
+import "fmt"
+
+func main(){
+	fmt.Println("Welcome to Go World")
+}
